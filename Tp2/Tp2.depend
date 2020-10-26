@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1589677577 source:/home/rony/D_Ubuntu/Tp2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1589108289 /home/rony/D_Ubuntu/Tp2/hardcodeoTP2.h
+
+1589676219 /home/rony/D_Ubuntu/Tp2/ArrayEmployees.h
+
+1589669930 /home/rony/D_Ubuntu/Tp2/utn.h
+
+1589676408 source:/home/rony/D_Ubuntu/Tp2/ArrayEmployees.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1589670081 source:/home/rony/D_Ubuntu/Tp2/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ctype.h>
+
